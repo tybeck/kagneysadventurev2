@@ -1,0 +1,16 @@
+{
+    "project": {
+        "name": "kagneysadventure",
+		"assets": [
+    		{
+    			"server": "app/projects/kagneysadventure/assets/",
+    			"web": "/projects/kagneysadventure/assets"
+    		},
+    		{
+    			"server": "app/projects/kagneysadventure/media/",
+    			"web": "/projects/media"
+    		}
+		],
+		"index": "index-unminified.html"
+	}
+}
