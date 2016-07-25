@@ -1,6 +1,6 @@
 {
     "project": {
-        "name": "kagneysadventure",
+        "name": "kagneysadventurev2",
 		"assets": [
     		{
     			"server": "app/projects/kagneysadventure/assets/",
