@@ -216,3 +216,4 @@ pip-log.txt
 
 lib/impact/*
 lib/weltmeister/*
+node_modules/
